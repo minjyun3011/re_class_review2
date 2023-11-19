@@ -53,5 +53,4 @@ print(square2)  # 正方形の面積: 225、対角線の長さ: 21.21
 
 user_input = int(input("正方形の1辺の長さを入力してください > "))
 user_square = Square(user_input)
-
 print(user_square)
